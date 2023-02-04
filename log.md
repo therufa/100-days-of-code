@@ -3,7 +3,7 @@
 ### Day 0: February 4, 2023
 
 **Today's Progress**: 
-- created a vercel project for (ruf.gg)[https://ruf.gg]
+- created a vercel project for [ruf.gg](https://ruf.gg)
 - updated nameservers for ruf.gg
 - created github repo for the website
 - initiated a qwik project and did some RTFM
@@ -13,4 +13,4 @@
 
 Deploying stuff on vercel is SMOOOOOTH. Recommended!
 
-**Link to work:** (therufa/ruf.gg)[https://github.com/therufa/ruf.gg]
+**Link to work:** [therufa/ruf.gg](https://github.com/therufa/ruf.gg)
