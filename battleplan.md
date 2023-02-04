@@ -5,3 +5,5 @@ I want to create a few websites in the near future. One for each business endeav
 The websites should load as quick as possible, therefore I decided to give [Qwik](https://qwik.builder.io/) a try.
 Obviously the for styling I'll use tailwind, and for the themes.. well, I might pull off a Picasso move.
 
+- ruf.gg -> portfolio site
+
