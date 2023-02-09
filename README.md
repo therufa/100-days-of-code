@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 4: February 9, 2023
+
+**Today's Progress**:
+- I've accomplished the hardest task I put content on a website I created. It's way more about the content.
+- I learned about the `marker:` selector in Tailwind too. 👍
+
+**Thoughts**: Writing content is hard. For me it's the hardest part, and I'm glad to finally be over it.
+Also, I'm not too fond of Qwik. It's a bit barebones and lacks many convenience features. Also there's an issue with the SSR part which looks like a bug, but i didn't put the effort in to validate. Dunno. It's nice for FFFFFAST sites, but I wouldn't use it for apps. Had better experience with sveltekit
+
+**Link to work**: [ruf.gg](https://ruf.gg/)
+
+
+### Day 3: February 8, 2023
+
+I did code, but I didn't summarize fuck it! This is fine
+
 ### Day 2: February 7, 2023
 
 **Today's Progress**:
