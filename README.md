@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 5: February 10, 2023
+
+I love notion, but it's missing some features I'd really love to have. All the open source note taking and project management apps suck in a way, so this will be my attempt to make something that actually doesn't suck, within the boundaries of this challenge
+
+**Today's Progress**:
+- I checked out the create t3 app with all it's featues
+- I added the email auth provider 
+
+**Thoughts**:
+Setting up a project seems always way easier than it actually is, and the issues are usually not with the framework but all the services... 
+
+**Link to work**: [brane](https://github.com/therufa/brane)
+
+
 ### Day 4: February 9, 2023
 
 **Today's Progress**:
