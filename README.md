@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: February 12, 2023
+
+**Today's progress**:
+- I've created a simple form with some input. very nice
+
+**Thoughts**:
+Working with t3 is like a bliss.
+
+**Link to work**: [brane](https://github.com/therufa/brane)
+
 ### Day 5: February 10, 2023
 
 I love notion, but it's missing some features I'd really love to have. All the open source note taking and project management apps suck in a way, so this will be my attempt to make something that actually doesn't suck, within the boundaries of this challenge
