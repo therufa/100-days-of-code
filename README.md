@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: February 13, 2023
+
+**Today's Progress**:
+- I've created an auth HoC for protected pages
+- i've moved the note creation process to it's respective route
+
+**Thoughts**: Despite it being a hard day, i've found a few moments to spare, but to be honest, I'm not really happy with my progress
+
+**Link to work**: [brane](https://github.com/therfua/brane)
+
 ### Day 6: February 12, 2023
 
 **Today's progress**:
