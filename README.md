@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 8: February 14, 2023
+
+**Today's Progress**:
+- I've experimented with react refs and contenteditable
+- created a htmleditable component to to format content of notes
+
+**Thoughts**: Today I learned, that I did know nothing about the `useRef` hook, but now I do. Niiice
+
+**Link to work**: [brane](https://github.com/therfua/brane)
+
 ### Day 7: February 13, 2023
 
 **Today's Progress**:
