@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 9: February 15, 2023
+
+**Today's progress**:
+- I started working on a text editor which uses an array of so called blocks 
+where each block would contain some actual payload as well as metadata 
+describing that particular block.
+- then I've found slate, and replaced it with that. Slate is a text editor, 
+which uses a similar internal structure and has wider adotption. me gusta
+
+**Thoughts**: It's fine to bin stuff for something better. It's not for 
+pride. Worth to mention, I learned something about TypeScript I wouldn't 
+have otherwise, so it's a big W IMHO
+
+**Link to work**: [brane](https://github.com/therfua/brane)
+
 ### Day 8: February 14, 2023
 
 **Today's Progress**:
