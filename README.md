@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10, Feabruary 18, 2023
+
+**Today's progress**:
+- I restructured my note taking project
+- I've learned a lot about next.js and next auth
+
+**Thoughts**: This one hour thing is quite pressuring, and bulding stuff
+just for the sake of making isn't really cutting it. I need to plan ahead
+
+**Link to work**: [brane](https://github.com/therufa/brane)
+
 ### Day 9: February 15, 2023
 
 **Today's progress**:
@@ -21,7 +32,8 @@ have otherwise, so it's a big W IMHO
 - I've experimented with react refs and contenteditable
 - created a htmleditable component to to format content of notes
 
-**Thoughts**: Today I learned, that I did know nothing about the `useRef` hook, but now I do. Niiice
+**Thoughts**: Today I learned, that I did know nothing about the `useRef` 
+hook, but now I do. Niiice
 
 **Link to work**: [brane](https://github.com/therfua/brane)
 
