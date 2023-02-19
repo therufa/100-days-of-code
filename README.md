@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 10, Feabruary 18, 2023
+### Day 11, February 19, 2023
+
+**Today's progress**:
+- today I failed, RTFM
+
+
+### Day 10, February 18, 2023
 
 **Today's progress**:
 - I restructured my note taking project
