@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 12, February 20, 2023
+
+**Today's progress**
+- I created a todo app with solid
+- experimented a bit with typescript
+
+**Thoughts**: the dev experience with solid is nice, but it's not at the
+level of react yet, but it's nicer than Qwik. I guess I'll have to make 
+a website with it :D
+
+**Link to work**: [todo app](https://github.com/therufa/my-100-days-of-code-repo--/tree/main/todo-solid)
+
 ### Day 11, February 19, 2023
 
 **Today's progress**:
