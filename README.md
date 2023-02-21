@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 13, February 21, 2023
+
+**Today's progress**
+- created a mini project to learn a bit about 3d development
+
+**Thoughts**: I'm reading a book for it, titled "build your own 2d game engine and create web games"
+not sure where i stand with it. let's see
+
+**Link to work**: [3d game engine](https://github.com/therufa/my-100-days-of-code-repo--/tree/main/3DStuff)
+
 ### Day 12, February 20, 2023
 
 **Today's progress**
